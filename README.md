@@ -1,2 +1,2 @@
-# portidolio
+# portifolio
 Portifólio com meus primeiros projetos 
